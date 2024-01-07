@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Open_sans";
+    src: url(../fonts/Open_Sans/OpenSans-Medium.ttf);
+    font-weight: 600;
+}
+
+
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter/Inter-Regular.ttf);
+    font-weight: 400;
+}
+
+
+
+@font-face {
+    font-family: "Round";
+    src: url(../fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-Medium.ttf);
+    font-weight: 700;
+}
